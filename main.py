@@ -1,15 +1,5 @@
-def calc(num1, num2, operation):
-    if operation == "+":
-        return num1 + num2
-    elif operation == "-":
-        return num1 - num2
-    elif operation == "*":
-        return num1 * num2
-    elif operation == "/":
-        return num1 / num2
-
-
-print(calc(10, 15, "+"))
-print(calc(10, 15, "-"))
-print(calc(10, 15, "*"))
-print(calc(10, 15, "/"))
+print("asdasd")
+print("123123321")
+a = 3
+b = 4
+a * b
