@@ -1,1 +1,2 @@
-orint("asdasd")
+print("asdasd")
+print("123123321")
